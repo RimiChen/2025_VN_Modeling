@@ -12,7 +12,7 @@ class ComicAnnotator:
         # File data
         self.image_files = []
         self.current_index = 0
-        self.annotations = {"panels": []}
+        self.annotations = {}
 
         # UI Elements
         self.setup_ui()
@@ -92,11 +92,39 @@ class ComicAnnotator:
             self.image_label.config(image=photo, text="", bg="white")
             self.image_label.image = photo
 
+            # Load previous annotation if it exists
+            panel_id = os.path.basename(image_path)
+            if panel_id in self.annotations:
+                annotation = self.annotations[panel_id]
+                self.caption_entry.delete(0, tk.END)
+                self.caption_entry.insert(0, annotation.get("caption", ""))
+                self.scene_entry.delete(0, tk.END)
+                self.scene_entry.insert(0, ",".join(annotation.get("scene", [])))
+                self.character_entry.delete(0, tk.END)
+                self.character_entry.insert(0, ",".join(annotation.get("characters", [])))
+                self.action_entry.delete(0, tk.END)
+                self.action_entry.insert(0, ",".join(annotation.get("actions", [])))
+                self.visual_entry.delete(0, tk.END)
+                self.visual_entry.insert(0, ",".join(annotation.get("visual", {}).get("encoders", [])))
+                self.textual_entry.delete(0, tk.END)
+                self.textual_entry.insert(0, ",".join(annotation.get("textual", {}).get("dialogues", [])))
+            else:
+                # Clear the fields if no previous annotation exists
+                self.clear_inputs()
+
+    def clear_inputs(self):
+        self.caption_entry.delete(0, tk.END)
+        self.scene_entry.delete(0, tk.END)
+        self.character_entry.delete(0, tk.END)
+        self.action_entry.delete(0, tk.END)
+        self.visual_entry.delete(0, tk.END)
+        self.textual_entry.delete(0, tk.END)
+
     def record_annotation(self):
         if self.image_files:
             image_path = self.image_files[self.current_index]
+            panel_id = os.path.basename(image_path)
             annotation = {
-                "panel_id": os.path.basename(image_path),
                 "caption": self.caption_entry.get(),
                 "scene": self.scene_entry.get().split(","),
                 "characters": self.character_entry.get().split(","),
@@ -106,10 +134,10 @@ class ComicAnnotator:
                     "encoders": self.visual_entry.get().split(",")
                 },
                 "textual": {
-                    "dialogues": self.textual_entry.get().split(",")
+                    "dialogues": self.textual_entry.get().split(".")
                 }
             }
-            self.annotations["panels"].append(annotation)
+            self.annotations[panel_id] = annotation
 
     def next_image(self):
         self.record_annotation()
@@ -128,7 +156,7 @@ class ComicAnnotator:
         save_path = filedialog.asksaveasfilename(defaultextension=".json", filetypes=[("JSON files", "*.json")])
         if save_path:
             with open(save_path, "w") as f:
-                json.dump(self.annotations, f, indent=4)
+                json.dump({"panels": list(self.annotations.values())}, f, indent=4)
 
 if __name__ == "__main__":
     root = tk.Tk()
