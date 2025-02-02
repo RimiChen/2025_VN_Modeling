@@ -134,7 +134,7 @@ class ComicAnnotator:
                     "encoders": self.visual_entry.get().split(",")
                 },
                 "textual": {
-                    "dialogues": self.textual_entry.get().split(".")
+                    "dialogues": self.textual_entry.get().split(";")
                 }
             }
             self.annotations[panel_id] = annotation
