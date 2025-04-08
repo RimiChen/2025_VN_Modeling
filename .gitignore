@@ -174,3 +174,5 @@ cython_debug/
 # ignore folders
 Data/
 ResearchMaterials/
+Data/Old_data/
+graphs/
