@@ -1,0 +1,4 @@
+Macro-event,GT,PRED,Exact Match,Partial Match,Precision,Recall,F1
+Message from family,"['ask_question', 'clean', 'fall_to', 'hold', 'look', 'look_at', 'spit_on', 'stomp_on', 'talk', 'tear', 'walk_on']",['ask_question | clean | fall_to | give | hold | look | look_at | spit_on | stomp_on | talk | tear | walk_on'],[],[],0.0,0.0,0
+Shock by message - financial problem,"['close', 'hold', 'look_at', 'read', 'tear']",['close | hold | look_at | read | tear'],[],[],0.0,0.0,0
+Think of family,"['Split', 'Thank', 'grab', 'hold', 'hold_hand', 'insert_into', 'peek_into', 'press', 'release', 'show', 'stand_behind', 'stand_on']",['Split | grab | hold | hold_hand | insert | insert_into | peek_into | press | release | show | stand_behind | stand_on'],[],[],0.0,0.0,0

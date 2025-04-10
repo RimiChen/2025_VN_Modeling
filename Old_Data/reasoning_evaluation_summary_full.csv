@@ -1,0 +1,5 @@
+Task,F1,Precision,Recall
+Task 1: Action Retrieval,0.0,0.0,0.0
+Task 2: Dialogue Trace,1.0,1.0,1.0
+Task 3: Character Appearance,1.0,1.0,1.0
+Task 4: Panel Timeline,1.0,1.0,1.0

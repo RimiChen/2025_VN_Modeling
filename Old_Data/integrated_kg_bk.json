@@ -1,0 +1,7549 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "panel",
+      "label": "0_0_0",
+      "id": "0_0_0"
+    },
+    {
+      "type": "event",
+      "label": "Intro",
+      "id": "Intro_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_0_1",
+      "id": "0_0_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_0_2",
+      "id": "0_0_2"
+    },
+    {
+      "type": "event",
+      "label": "Get new rice_cooker",
+      "id": "Get new rice_cooker_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_0_3",
+      "id": "0_0_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_0_4",
+      "id": "0_0_4"
+    },
+    {
+      "type": "event",
+      "label": "Test new rice_cooker",
+      "id": "Test new rice_cooker_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_0_5",
+      "id": "0_0_5"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_0",
+      "id": "0_1_0"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_1",
+      "id": "0_1_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_2",
+      "id": "0_1_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_3",
+      "id": "0_1_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_4",
+      "id": "0_1_4"
+    },
+    {
+      "type": "event",
+      "label": "Eat and think family",
+      "id": "Eat and think family_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_1_5",
+      "id": "0_1_5"
+    },
+    {
+      "type": "panel",
+      "label": "0_2_0",
+      "id": "0_2_0"
+    },
+    {
+      "type": "panel",
+      "label": "0_2_1",
+      "id": "0_2_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_2_2",
+      "id": "0_2_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_0",
+      "id": "0_3_0"
+    },
+    {
+      "type": "event",
+      "label": "Intro",
+      "id": "Intro_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_1",
+      "id": "0_3_1"
+    },
+    {
+      "type": "event",
+      "label": "Saw a friend is taking letter",
+      "id": "Saw a friend is taking letter_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_2",
+      "id": "0_3_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_3",
+      "id": "0_3_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_4",
+      "id": "0_3_4"
+    },
+    {
+      "type": "event",
+      "label": "Saw a friend tear letter",
+      "id": "Saw a friend tear letter_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_3_5",
+      "id": "0_3_5"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_0",
+      "id": "0_4_0"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_1",
+      "id": "0_4_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_2",
+      "id": "0_4_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_3",
+      "id": "0_4_3"
+    },
+    {
+      "type": "event",
+      "label": "Say hi and ask reasons",
+      "id": "Say hi and ask reasons_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_4",
+      "id": "0_4_4"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_5",
+      "id": "0_4_5"
+    },
+    {
+      "type": "event",
+      "label": "Get own letter",
+      "id": "Get own letter_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_4_6",
+      "id": "0_4_6"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_0",
+      "id": "0_5_0"
+    },
+    {
+      "type": "event",
+      "label": "Read letter",
+      "id": "Read letter_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_1",
+      "id": "0_5_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_2",
+      "id": "0_5_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_3",
+      "id": "0_5_3"
+    },
+    {
+      "type": "event",
+      "label": "Shocked by content",
+      "id": "Shocked by content_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_4",
+      "id": "0_5_4"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_5",
+      "id": "0_5_5"
+    },
+    {
+      "type": "event",
+      "label": "Describe and explain content",
+      "id": "Describe and explain content_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_6",
+      "id": "0_5_6"
+    },
+    {
+      "type": "panel",
+      "label": "0_5_7",
+      "id": "0_5_7"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_0",
+      "id": "0_6_0"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_1",
+      "id": "0_6_1"
+    },
+    {
+      "type": "event",
+      "label": "Understand the family decision",
+      "id": "Understand the family decision_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_2",
+      "id": "0_6_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_3",
+      "id": "0_6_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_4",
+      "id": "0_6_4"
+    },
+    {
+      "type": "event",
+      "label": "Thiank about situation",
+      "id": "Thiank about situation_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_6_5",
+      "id": "0_6_5"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_0",
+      "id": "0_7_0"
+    },
+    {
+      "type": "event",
+      "label": "Discuss about situation and ask suggestions",
+      "id": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_1",
+      "id": "0_7_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_2",
+      "id": "0_7_2"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_3",
+      "id": "0_7_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_4",
+      "id": "0_7_4"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_5",
+      "id": "0_7_5"
+    },
+    {
+      "type": "event",
+      "label": "Give surprised suggestions",
+      "id": "Give surprised suggestions_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_7_6",
+      "id": "0_7_6"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_0",
+      "id": "0_8_0"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_1",
+      "id": "0_8_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_2",
+      "id": "0_8_2"
+    },
+    {
+      "type": "event",
+      "label": "shocked by the suggestion",
+      "id": "shocked by the suggestion_1"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_3",
+      "id": "0_8_3"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_4",
+      "id": "0_8_4"
+    },
+    {
+      "type": "panel",
+      "label": "0_8_5",
+      "id": "0_8_5"
+    },
+    {
+      "type": "event",
+      "label": "Intro to pointing out personality",
+      "id": "Intro to pointing out personality_1"
+    },
+    {
+      "type": "macro_event",
+      "label": "Think of family",
+      "id": "Think of family"
+    },
+    {
+      "type": "event_segment",
+      "label": "Intro to a broader time",
+      "id": "seg001"
+    },
+    {
+      "type": "event_segment",
+      "label": "Intro to a place",
+      "id": "seg002"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C shows up",
+      "id": "seg003"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C thanks for having a rice_cooker",
+      "id": "seg004"
+    },
+    {
+      "type": "event_segment",
+      "label": "Show the rice_cooker",
+      "id": "seg005"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C looks at the rice_cooker",
+      "id": "seg006"
+    },
+    {
+      "type": "event_segment",
+      "label": "Insert the power cord into wall socket",
+      "id": "seg007"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C press turn_on rice_cooker",
+      "id": "seg008"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C waits for rice_cooker ready",
+      "id": "seg009"
+    },
+    {
+      "type": "event_segment",
+      "label": "Unknown_D watches Character_C's happy singing",
+      "id": "seg010"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text",
+      "id": "seg011"
+    },
+    {
+      "type": "event_segment",
+      "label": "Show Character_C is eating from top angle",
+      "id": "seg012"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C is eating and thinking",
+      "id": "seg013"
+    },
+    {
+      "type": "macro_event",
+      "label": "Message from family",
+      "id": "Message from family"
+    },
+    {
+      "type": "event_segment",
+      "label": "Walking down the stair",
+      "id": "seg014"
+    },
+    {
+      "type": "event_segment",
+      "label": "Focus on Character_C",
+      "id": "seg015"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches Character_E reading a letter",
+      "id": "seg016"
+    },
+    {
+      "type": "event_segment",
+      "label": "Focus on Character_C",
+      "id": "seg017"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches Character_E tearing a letter",
+      "id": "seg018"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches Character_E spitting on the letter fragments",
+      "id": "seg019"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches Character_E Stomping on the letter fragments",
+      "id": "seg020"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C is sweating and say hi to Character_E",
+      "id": "seg021"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches Character E cleaning the letter fragments",
+      "id": "seg022"
+    },
+    {
+      "type": "event_segment",
+      "label": "Give Character_C a letter",
+      "id": "seg023"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C hold the letter and watches Character_E walk away",
+      "id": "seg024"
+    },
+    {
+      "type": "macro_event",
+      "label": "Shock by message - financial problem",
+      "id": "Shock by message - financial problem"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C read the letter",
+      "id": "seg025"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C shocked by the letter",
+      "id": "seg026"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_E runs close and watches Character_C shocks",
+      "id": "seg027"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text",
+      "id": "seg028"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_E reads the letter and Character_C shouts her thoughts",
+      "id": "seg029"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_E watches Character_C tear the letter, cry, and complain about the content",
+      "id": "seg030"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C walked away and Character_E comment_on the content",
+      "id": "seg031"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C hestitate",
+      "id": "seg032"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_E watches Character_C hesitate and explain her situation",
+      "id": "seg033"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C watches the letter fragment and think about her situation",
+      "id": "seg034"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text intro to her conclusion",
+      "id": "seg035"
+    },
+    {
+      "type": "macro_event",
+      "label": "Ask advices",
+      "id": "Ask advices"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text intro to someone talking",
+      "id": "seg036"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C ask Character_F for advise",
+      "id": "seg037"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C discuss with Character_F",
+      "id": "seg038"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_F makes suggestions",
+      "id": "seg039"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text shows a two-sided conversation",
+      "id": "seg040"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_F stops",
+      "id": "seg041"
+    },
+    {
+      "type": "event_segment",
+      "label": "Text about a unusual suggestions",
+      "id": "seg042"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C shows bewilderment",
+      "id": "seg043"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_F explains the suggestion",
+      "id": "seg044"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C is shocked",
+      "id": "seg045"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C cries in protest and Character_F argues",
+      "id": "seg046"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_C aware of something",
+      "id": "seg047"
+    },
+    {
+      "type": "event_segment",
+      "label": "Character_F sighs and Character_C hesitate",
+      "id": "seg048"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_0",
+      "id": "Scene_0_0_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Unknown",
+      "id": "scene_obj_0_0_0_0"
+    },
+    {
+      "id": "Scene_objects"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Unknown",
+      "id": "Visual_scene_obj_0_0_0_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Tree",
+      "id": "scene_obj_0_0_0_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Tree",
+      "id": "Visual_scene_obj_0_0_0_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Light",
+      "id": "scene_obj_0_0_0_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Light",
+      "id": "Visual_scene_obj_0_0_0_2"
+    },
+    {
+      "type": "character",
+      "label": "A",
+      "id": "A"
+    },
+    {
+      "id": "Characters"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of A",
+      "id": "Visual_A"
+    },
+    {
+      "type": "character",
+      "label": "B",
+      "id": "B"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of B",
+      "id": "Visual_B"
+    },
+    {
+      "type": "action",
+      "label": "hold_hand",
+      "id": "Action_0_0_0_0"
+    },
+    {
+      "type": "action",
+      "label": "hold_hand",
+      "id": "Action_0_0_0_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_0_0"
+    },
+    {
+      "type": "text",
+      "label": "Before I knew it, it was May, The season when young leaves are the most beautiful",
+      "id": "text_0_0_0_0"
+    },
+    {
+      "type": "shot",
+      "label": "Long_shot",
+      "id": "shot_0_0_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_1",
+      "id": "Scene_0_0_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "House",
+      "id": "scene_obj_0_0_1_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of House",
+      "id": "Visual_scene_obj_0_0_1_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_1_0"
+    },
+    {
+      "type": "text",
+      "label": "This kind of season makes me totally impressed!",
+      "id": "text_0_0_1_0"
+    },
+    {
+      "type": "shot",
+      "label": "Long_shot",
+      "id": "shot_0_0_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_2",
+      "id": "Scene_0_0_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Concentrate Line",
+      "id": "scene_obj_0_0_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Concentrate Line",
+      "id": "Visual_scene_obj_0_0_2_0"
+    },
+    {
+      "type": "character",
+      "label": "C",
+      "id": "C"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of C",
+      "id": "Visual_C"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_2_0"
+    },
+    {
+      "type": "text",
+      "label": "Kangeki!",
+      "id": "text_0_0_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_0_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_3",
+      "id": "Scene_0_0_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Unknown",
+      "id": "scene_obj_0_0_3_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Unknown",
+      "id": "Visual_scene_obj_0_0_3_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Bags",
+      "id": "scene_obj_0_0_3_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Bags",
+      "id": "Visual_scene_obj_0_0_3_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_0_3_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_0_3_2"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_0_3_0"
+    },
+    {
+      "id": "Rice_cooker"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_3_0"
+    },
+    {
+      "type": "text",
+      "label": "Tsu I bought it at last! A shiny rice cooker for one person!",
+      "id": "text_0_0_3_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_0_3_1"
+    },
+    {
+      "type": "text",
+      "label": "The money I got from pachinko was great!",
+      "id": "text_0_0_3_1"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_0_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_4",
+      "id": "Scene_0_0_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_0_4_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_0_4_0"
+    },
+    {
+      "type": "character",
+      "label": "C_hand",
+      "id": "C_hand"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of C_hand",
+      "id": "Visual_C_hand"
+    },
+    {
+      "type": "action",
+      "label": "show",
+      "id": "Action_0_0_4_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_4_0"
+    },
+    {
+      "type": "text",
+      "label": "Now",
+      "id": "text_0_0_4_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_0_4_1"
+    },
+    {
+      "type": "text",
+      "label": "I would call it a test run",
+      "id": "text_0_0_4_1"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_0_4"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_0_5"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_0_5"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_0_5",
+      "id": "Scene_0_0_5"
+    },
+    {
+      "type": "scene_obj",
+      "label": "C_Room",
+      "id": "scene_obj_0_0_5_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of C_Room",
+      "id": "Visual_scene_obj_0_0_5_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Table",
+      "id": "scene_obj_0_0_5_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Table",
+      "id": "Visual_scene_obj_0_0_5_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Closet",
+      "id": "scene_obj_0_0_5_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Closet",
+      "id": "Visual_scene_obj_0_0_5_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_0_5_3"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_0_5_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker_power_cord",
+      "id": "scene_obj_0_0_5_4"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker_power_cord",
+      "id": "Visual_scene_obj_0_0_5_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Wall",
+      "id": "scene_obj_0_0_5_5"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Wall",
+      "id": "Visual_scene_obj_0_0_5_5"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_0_5_0"
+    },
+    {
+      "id": "Rice_cooker_power_cord"
+    },
+    {
+      "type": "action",
+      "label": "stand_on",
+      "id": "Action_0_0_5_1"
+    },
+    {
+      "id": "Table"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_0_5_0"
+    },
+    {
+      "type": "text",
+      "label": "\\u2026\\u2026\\u2026",
+      "id": "text_0_0_5_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_0_5"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_1_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_1_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_1_0",
+      "id": "Scene_0_1_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Wall_socket",
+      "id": "scene_obj_0_1_0_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Wall_socket",
+      "id": "Visual_scene_obj_0_1_0_0"
+    },
+    {
+      "type": "action",
+      "label": "grab",
+      "id": "Action_0_1_0_0"
+    },
+    {
+      "id": "Power_cord"
+    },
+    {
+      "type": "action",
+      "label": "insert_into",
+      "id": "Action_0_1_0_1"
+    },
+    {
+      "id": "Wall_socket"
+    },
+    {
+      "type": "action",
+      "label": "insert",
+      "id": "Action_0_1_0_2"
+    },
+    {
+      "id": "Power_cord into Wall_socket"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_1_0_0"
+    },
+    {
+      "type": "text",
+      "label": "Power IN",
+      "id": "text_0_1_0_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_1_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_1_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_1_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_1_1",
+      "id": "Scene_0_1_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Table",
+      "id": "scene_obj_0_1_1_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Table",
+      "id": "Visual_scene_obj_0_1_1_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_1_1_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_1_1_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker_button",
+      "id": "scene_obj_0_1_1_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker_button",
+      "id": "Visual_scene_obj_0_1_1_2"
+    },
+    {
+      "type": "action",
+      "label": "press",
+      "id": "Action_0_1_1_0"
+    },
+    {
+      "id": "Rice_cooker_button"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_1_1_0"
+    },
+    {
+      "type": "text",
+      "label": "Switch on",
+      "id": "text_0_1_1_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_1_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_1_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_1_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_1_2",
+      "id": "Scene_0_1_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_1_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_1_2_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Bowl",
+      "id": "scene_obj_0_1_2_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Bowl",
+      "id": "Visual_scene_obj_0_1_2_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Chopstick",
+      "id": "scene_obj_0_1_2_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Chopstick",
+      "id": "Visual_scene_obj_0_1_2_2"
+    },
+    {
+      "type": "action",
+      "label": "Split",
+      "id": "Action_0_1_2_0"
+    },
+    {
+      "id": "Chopstick"
+    },
+    {
+      "type": "action",
+      "label": "release",
+      "id": "Action_0_1_2_1"
+    },
+    {
+      "id": "Steam"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_1_2_0"
+    },
+    {
+      "type": "text",
+      "label": "Ready OK\\u203c",
+      "id": "text_0_1_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_long_shot",
+      "id": "shot_0_1_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_1_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_1_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_1_3",
+      "id": "Scene_0_1_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Room",
+      "id": "scene_obj_0_1_3_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Room",
+      "id": "Visual_scene_obj_0_1_3_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Table",
+      "id": "scene_obj_0_1_3_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Table",
+      "id": "Visual_scene_obj_0_1_3_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_1_3_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_1_3_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Door",
+      "id": "scene_obj_0_1_3_3"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Door",
+      "id": "Visual_scene_obj_0_1_3_3"
+    },
+    {
+      "type": "character",
+      "label": "D",
+      "id": "D"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of D",
+      "id": "Visual_D"
+    },
+    {
+      "type": "action",
+      "label": "peek_into",
+      "id": "Action_0_1_3_1"
+    },
+    {
+      "id": "Room"
+    },
+    {
+      "type": "action",
+      "label": "stand_behind",
+      "id": "Action_0_1_3_2"
+    },
+    {
+      "id": "Door"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_1_3_0"
+    },
+    {
+      "type": "text",
+      "label": "It\\u2019s playing!",
+      "id": "text_0_1_3_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_1_3_1"
+    },
+    {
+      "type": "text",
+      "label": "That guy often can do that alone",
+      "id": "text_0_1_3_1"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_1_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_1_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_1_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_1_4",
+      "id": "Scene_0_1_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Room",
+      "id": "scene_obj_0_1_4_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Room",
+      "id": "Visual_scene_obj_0_1_4_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Floor",
+      "id": "scene_obj_0_1_4_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Floor",
+      "id": "Visual_scene_obj_0_1_4_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Table",
+      "id": "scene_obj_0_1_4_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Table",
+      "id": "Visual_scene_obj_0_1_4_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Rice_cooker",
+      "id": "scene_obj_0_1_4_3"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Rice_cooker",
+      "id": "Visual_scene_obj_0_1_4_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Closet",
+      "id": "scene_obj_0_1_4_4"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Closet",
+      "id": "Visual_scene_obj_0_1_4_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Books",
+      "id": "scene_obj_0_1_4_5"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Books",
+      "id": "Visual_scene_obj_0_1_4_5"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_1_4_0"
+    },
+    {
+      "type": "text",
+      "label": "If you think about it",
+      "id": "text_0_1_4_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_2_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_2_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_2_0",
+      "id": "Scene_0_2_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_2_0_0"
+    },
+    {
+      "type": "text",
+      "label": "Even when I was at home, I had to leave everything to my mother",
+      "id": "text_0_2_0_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_2_0_1"
+    },
+    {
+      "type": "text",
+      "label": "It\\u2019s true that if you have a hardworking mother, your daughter won\\u2019t be able to do anything",
+      "id": "text_0_2_0_1"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_2_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_2_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_2_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_2_1",
+      "id": "Scene_0_2_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_2_1_0"
+    },
+    {
+      "type": "text",
+      "label": "I'm so impressed with the rice cooker",
+      "id": "text_0_2_1_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_2_1_1"
+    },
+    {
+      "type": "text",
+      "label": "If you buy a refrigerator or a TV, you might be crazy",
+      "id": "text_0_2_1_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_2_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_2_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_2_2",
+      "id": "Scene_0_2_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Table",
+      "id": "scene_obj_0_2_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Table",
+      "id": "Visual_scene_obj_0_2_2_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Bowl",
+      "id": "scene_obj_0_2_2_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Bowl",
+      "id": "Visual_scene_obj_0_2_2_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Plate_with_dish",
+      "id": "scene_obj_0_2_2_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Plate_with_dish",
+      "id": "Visual_scene_obj_0_2_2_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_2_2_0"
+    },
+    {
+      "type": "text",
+      "label": "But I think I'm side dish with ramen",
+      "id": "text_0_2_2_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_2_2_1"
+    },
+    {
+      "type": "text",
+      "label": "I've become a constitution that I can't get out of ramen anymore",
+      "id": "text_0_2_2_1"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_long_shot",
+      "id": "shot_0_2_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_0",
+      "id": "Scene_0_3_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Stair",
+      "id": "scene_obj_0_3_0_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Stair",
+      "id": "Visual_scene_obj_0_3_0_0"
+    },
+    {
+      "type": "character",
+      "label": "Unknown",
+      "id": "Unknown"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Unknown",
+      "id": "Visual_Unknown"
+    },
+    {
+      "type": "action",
+      "label": "walk_on",
+      "id": "Action_0_3_0_0"
+    },
+    {
+      "id": "Stair"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_0_0"
+    },
+    {
+      "type": "text",
+      "label": "However, a good part-time job is not easy, I'm gonna play pachinko again, However, I feel that such a fluke will never live again",
+      "id": "text_0_3_0_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_long_shot",
+      "id": "shot_0_3_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_1",
+      "id": "Scene_0_3_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Unknown",
+      "id": "scene_obj_0_3_1_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Unknown",
+      "id": "Visual_scene_obj_0_3_1_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_3_1_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_1_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_3_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_2",
+      "id": "Scene_0_3_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Wall",
+      "id": "scene_obj_0_3_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Wall",
+      "id": "Visual_scene_obj_0_3_2_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Mail_box",
+      "id": "scene_obj_0_3_2_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Mail_box",
+      "id": "Visual_scene_obj_0_3_2_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_3_2_2"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_3_2_2"
+    },
+    {
+      "type": "character",
+      "label": " E",
+      "id": " E"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of  E",
+      "id": "Visual_ E"
+    },
+    {
+      "type": "action",
+      "label": "ask_question",
+      "id": "Action_0_3_2_0"
+    },
+    {
+      "type": "character",
+      "label": "E",
+      "id": "E"
+    },
+    {
+      "type": "action",
+      "label": "look",
+      "id": "Action_0_3_2_1"
+    },
+    {
+      "id": "Letter"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_2_0"
+    },
+    {
+      "type": "text",
+      "label": "Oh, Asami-san, Letter from parents' home?",
+      "id": "text_0_3_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_3_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_3",
+      "id": "Scene_0_3_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_3_3_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_3_3_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of E",
+      "id": "Visual_E"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_3_3_0"
+    },
+    {
+      "type": "action",
+      "label": "tear",
+      "id": "Action_0_3_3_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_3_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_3_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_4",
+      "id": "Scene_0_3_4"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_4_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_3_4"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_3_5"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_3_5"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_3_5",
+      "id": "Scene_0_3_5"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_3_5_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_3_5_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_3_5_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_3_5_1"
+    },
+    {
+      "type": "action",
+      "label": "look",
+      "id": "Action_0_3_5_0"
+    },
+    {
+      "type": "action",
+      "label": "tear",
+      "id": "Action_0_3_5_1"
+    },
+    {
+      "id": "Letter_fragment"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_3_5_0"
+    },
+    {
+      "type": "text",
+      "label": "\\u2026\\u2026\\u2026",
+      "id": "text_0_3_5_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_3_5"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_0",
+      "id": "Scene_0_4_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_4_0_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_4_0_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": " Floor",
+      "id": "scene_obj_0_4_0_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of  Floor",
+      "id": "Visual_scene_obj_0_4_0_1"
+    },
+    {
+      "type": "action",
+      "label": "fall_to",
+      "id": "Action_0_4_0_0"
+    },
+    {
+      "id": "Floor"
+    },
+    {
+      "type": "action",
+      "label": "tear",
+      "id": "Action_0_4_0_1"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_4_0_3"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_0_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_4_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_1",
+      "id": "Scene_0_4_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Floor",
+      "id": "scene_obj_0_4_1_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Floor",
+      "id": "Visual_scene_obj_0_4_1_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_4_1_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_4_1_1"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_4_1_1"
+    },
+    {
+      "type": "action",
+      "label": "spit_on",
+      "id": "Action_0_4_1_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_1_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_4_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_2",
+      "id": "Scene_0_4_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_4_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_4_2_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Floor",
+      "id": "scene_obj_0_4_2_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Floor",
+      "id": "Visual_scene_obj_0_4_2_1"
+    },
+    {
+      "type": "action",
+      "label": "stomp_on",
+      "id": "Action_0_4_2_0"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_4_2_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_4_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_3",
+      "id": "Scene_0_4_3"
+    },
+    {
+      "type": "action",
+      "label": "talk",
+      "id": "Action_0_4_3_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_3_0"
+    },
+    {
+      "type": "text",
+      "label": "Good morning!",
+      "id": "text_0_4_3_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_4_3_1"
+    },
+    {
+      "type": "text",
+      "label": "Good morning,,,what are you doing?",
+      "id": "text_0_4_3_1"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_4_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_4",
+      "id": "Scene_0_4_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Cleaning_tool",
+      "id": "scene_obj_0_4_4_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Cleaning_tool",
+      "id": "Visual_scene_obj_0_4_4_0"
+    },
+    {
+      "type": "action",
+      "label": "clean",
+      "id": "Action_0_4_4_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_4_4_3"
+    },
+    {
+      "id": "Cleaning_tool"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_4_0"
+    },
+    {
+      "type": "text",
+      "label": "Oh this? Letters from parents in Kyoto, why? Why do you write that letter so much?",
+      "id": "text_0_4_4_0"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_4_4"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_5"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_5"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_5",
+      "id": "Scene_0_4_5"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_4_5_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_4_5_0"
+    },
+    {
+      "type": "action",
+      "label": "give",
+      "id": "Action_0_4_5_0"
+    },
+    {
+      "id": "Unkown"
+    },
+    {
+      "id": "Letter to C"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_4_5_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_5_0"
+    },
+    {
+      "type": "text",
+      "label": "Because it\\u2019s good, it\\u2019s good\\u203c I'm here for you",
+      "id": "text_0_4_5_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_4_5"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_4_6"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_4_6"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_4_6",
+      "id": "Scene_0_4_6"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Cleaning_tool",
+      "id": "scene_obj_0_4_6_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Cleaning_tool",
+      "id": "Visual_scene_obj_0_4_6_0"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_4_6_1"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_4_6_3"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_4_6_0"
+    },
+    {
+      "type": "text",
+      "label": "\\u2026\\u2026\\u2026\\u2026",
+      "id": "text_0_4_6_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_4_6"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_0",
+      "id": "Scene_0_5_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_0_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_0_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_0_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_5_0_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_0_0"
+    },
+    {
+      "type": "text",
+      "label": "Are you doing well? I'm fine, you can only be fine",
+      "id": "text_0_5_0_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_long_shot",
+      "id": "shot_0_5_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_1",
+      "id": "Scene_0_5_1"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_1_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_1_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_5_1_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_1_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_1_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_5_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_2"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_2",
+      "id": "Scene_0_5_2"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_2_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_2_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_5_2_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_2_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_2_0"
+    },
+    {
+      "type": "text",
+      "label": "e",
+      "id": "text_0_5_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_long_shot",
+      "id": "shot_0_5_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_3",
+      "id": "Scene_0_5_3"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_3_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_3_0"
+    },
+    {
+      "type": "action",
+      "label": "hold",
+      "id": "Action_0_5_3_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_3_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_3_0"
+    },
+    {
+      "type": "text",
+      "label": "Eh?",
+      "id": "text_0_5_3_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_5_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_4",
+      "id": "Scene_0_5_4"
+    },
+    {
+      "type": "action",
+      "label": "close",
+      "id": "Action_0_5_4_0"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_5_4_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_4_0"
+    },
+    {
+      "type": "text",
+      "label": "Osooo, What?,What's wrong?",
+      "id": "text_0_5_4_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_5_4"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_5"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_5"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_5",
+      "id": "Scene_0_5_5"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_5_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_5_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_5_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_5_0"
+    },
+    {
+      "type": "text",
+      "label": "Hi,,, Little mother!",
+      "id": "text_0_5_5_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_5_5_1"
+    },
+    {
+      "type": "text",
+      "label": "What happened? What was written?",
+      "id": "text_0_5_5_1"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_5_5"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_6"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_6"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_6",
+      "id": "Scene_0_5_6"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_6_0"
+    },
+    {
+      "type": "text",
+      "label": "Do... Remittance...",
+      "id": "text_0_5_6_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_5_7"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_5_7"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_5_7",
+      "id": "Scene_0_5_7"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter",
+      "id": "scene_obj_0_5_7_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter",
+      "id": "Visual_scene_obj_0_5_7_0"
+    },
+    {
+      "type": "action",
+      "label": "read",
+      "id": "Action_0_5_7_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_5_7_0"
+    },
+    {
+      "type": "text",
+      "label": "Let me cut the remittances in half next month~",
+      "id": "text_0_5_7_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_5_7_1"
+    },
+    {
+      "type": "text",
+      "label": "I can't pay the loan for Iseki's rice transplanter",
+      "id": "text_0_5_7_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 2",
+      "id": "Dialogue_0_5_7_2"
+    },
+    {
+      "type": "text",
+      "label": "After all, I wanted you to go to a national university",
+      "id": "text_0_5_7_2"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_5_7"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_0"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_0",
+      "id": "Scene_0_6_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_6_0_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_6_0_0"
+    },
+    {
+      "type": "action",
+      "label": "tear",
+      "id": "Action_0_6_0_1"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_6_0_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_0_0"
+    },
+    {
+      "type": "text",
+      "label": "As a mother I can't do anything and it's painful...",
+      "id": "text_0_6_0_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_6_0_1"
+    },
+    {
+      "type": "text",
+      "label": "This is the one I'm worried about",
+      "id": "text_0_6_0_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 2",
+      "id": "Dialogue_0_6_0_2"
+    },
+    {
+      "type": "text",
+      "label": "I'm just lacking in what I eat",
+      "id": "text_0_6_0_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 3",
+      "id": "Dialogue_0_6_0_3"
+    },
+    {
+      "type": "text",
+      "label": "If it's 30,000 yen, you'll only get the boarding fee",
+      "id": "text_0_6_0_3"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 4",
+      "id": "Dialogue_0_6_0_4"
+    },
+    {
+      "type": "text",
+      "label": "30,000... Hidden I got 110,000",
+      "id": "text_0_6_0_4"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_6_0"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_1"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_1"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_1",
+      "id": "Scene_0_6_1"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_6_1_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_1_0"
+    },
+    {
+      "type": "text",
+      "label": "Oh, the refrigerator goes away",
+      "id": "text_0_6_1_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_6_1_1"
+    },
+    {
+      "type": "text",
+      "label": "Born in a poor farmer in Hokuriku",
+      "id": "text_0_6_1_1"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_6_1"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_2"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_2"
+    },
+    {
+      "type": "encoder",
+      "label": "encoder_0",
+      "id": "encoder_0_6_2_0"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_2",
+      "id": "Scene_0_6_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_2_0"
+    },
+    {
+      "type": "shot",
+      "label": "Close_shot",
+      "id": "shot_0_6_2"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_3"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_3"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_3",
+      "id": "Scene_0_6_3"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_6_3_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_3_0"
+    },
+    {
+      "type": "text",
+      "label": "Can you tell me what's wrong with your house? Originally I was bad",
+      "id": "text_0_6_3_0"
+    },
+    {
+      "type": "shot",
+      "label": "Medium_shot",
+      "id": "shot_0_6_3"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_4"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_4"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_4",
+      "id": "Scene_0_6_4"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Letter_fragment",
+      "id": "scene_obj_0_6_4_0"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Letter_fragment",
+      "id": "Visual_scene_obj_0_6_4_0"
+    },
+    {
+      "type": "scene_obj",
+      "label": "Floor",
+      "id": "scene_obj_0_6_4_1"
+    },
+    {
+      "type": "visual",
+      "label": "Visual of Floor",
+      "id": "Visual_scene_obj_0_6_4_1"
+    },
+    {
+      "type": "action",
+      "label": "look_at",
+      "id": "Action_0_6_4_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_4_0"
+    },
+    {
+      "type": "text",
+      "label": "But it's dangerous",
+      "id": "text_0_6_4_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_6_4_1"
+    },
+    {
+      "type": "text",
+      "label": "If this is left this month, I'll be starving to death next month",
+      "id": "text_0_6_4_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 2",
+      "id": "Dialogue_0_6_4_2"
+    },
+    {
+      "type": "text",
+      "label": "If that was the case, I wouldn't buy that rice cooker",
+      "id": "text_0_6_4_2"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 3",
+      "id": "Dialogue_0_6_4_3"
+    },
+    {
+      "type": "text",
+      "label": "Acha",
+      "id": "text_0_6_4_3"
+    },
+    {
+      "type": "shot",
+      "label": "Full_shot",
+      "id": "shot_0_6_4"
+    },
+    {
+      "type": "panel_visual",
+      "label": "Panel Visual",
+      "id": "Panel_visual_0_6_5"
+    },
+    {
+      "type": "panel_textual",
+      "label": "Panel Textual",
+      "id": "Panel_textual_0_6_5"
+    },
+    {
+      "type": "scene",
+      "label": "Scene 0_6_5",
+      "id": "Scene_0_6_5"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 0",
+      "id": "Dialogue_0_6_5_0"
+    },
+    {
+      "type": "text",
+      "label": "I wonder if there is a good part-time job",
+      "id": "text_0_6_5_0"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 1",
+      "id": "Dialogue_0_6_5_1"
+    },
+    {
+      "type": "text",
+      "label": "If you can borrow it in advance",
+      "id": "text_0_6_5_1"
+    },
+    {
+      "type": "dialogue",
+      "label": "Dialogue 2",
+      "id": "Dialogue_0_6_5_2"
+    },
+    {
+      "type": "text",
+      "label": "If you can do it, you will get a high part-time job fee",
+      "id": "text_0_6_5_2"
+    },
+    {
+      "type": "shot",
+      "label": "Long_shot",
+      "id": "shot_0_6_5"
+    }
+  ],
+  "links": [
+    {
+      "relation": "belongs_to",
+      "source": "0_0_0",
+      "target": "Intro_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_0",
+      "target": "0_0_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_0",
+      "target": "seg001"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Intro_1",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Intro_1",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Intro_1",
+      "target": "Think of family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_0_1",
+      "target": "Intro_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_1",
+      "target": "seg002"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_1",
+      "target": "0_0_2"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_0_2",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_2",
+      "target": "0_0_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_2",
+      "target": "seg003"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Get new rice_cooker_1",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Get new rice_cooker_1",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Get new rice_cooker_1",
+      "target": "Think of family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_0_3",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_3",
+      "target": "seg004"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_3",
+      "target": "0_0_4"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_0_4",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_4",
+      "target": "0_0_5"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_4",
+      "target": "seg005"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Test new rice_cooker_1",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Test new rice_cooker_1",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Test new rice_cooker_1",
+      "target": "Think of family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_0_5",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_0_5",
+      "target": "0_1_0"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_0_5",
+      "target": "seg006"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_0",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_0",
+      "target": "0_1_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_0",
+      "target": "seg007"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_1",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_1",
+      "target": "0_1_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_1",
+      "target": "seg008"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_2",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_2",
+      "target": "0_1_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_2",
+      "target": "seg009"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_3",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_3",
+      "target": "seg010"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_3",
+      "target": "0_1_4"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_4",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_4",
+      "target": "0_1_5"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_4",
+      "target": "seg011"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Eat and think family_1",
+      "target": "Intro_2"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Eat and think family_1",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Eat and think family_1",
+      "target": "Think of family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_1_5",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_1_5",
+      "target": "0_2_0"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_1_5",
+      "target": "seg012"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_2_0",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_2_0",
+      "target": "0_2_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_2_0",
+      "target": "seg013"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_2_1",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_2_1",
+      "target": "0_2_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_2_1",
+      "target": "seg013"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_2_2",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_2_2",
+      "target": "seg013"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_2_2",
+      "target": "0_3_0"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_0",
+      "target": "Intro_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_0",
+      "target": "seg014"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_0",
+      "target": "0_3_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Intro_2",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Intro_2",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Intro_2",
+      "target": "Message from family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_1",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_1",
+      "target": "0_3_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_1",
+      "target": "seg015"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Saw a friend is taking letter_1",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Saw a friend is taking letter_1",
+      "target": "Intro_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Saw a friend is taking letter_1",
+      "target": "Message from family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_2",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_2",
+      "target": "0_3_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_2",
+      "target": "seg016"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_3",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_3",
+      "target": "seg017"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_3",
+      "target": "0_3_4"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_4",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_4",
+      "target": "0_3_5"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_4",
+      "target": "seg017"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Saw a friend tear letter_1",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Saw a friend tear letter_1",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Saw a friend tear letter_1",
+      "target": "Message from family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_3_5",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_3_5",
+      "target": "0_4_0"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_3_5",
+      "target": "seg018"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_0",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_0",
+      "target": "0_4_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_0",
+      "target": "seg018"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_1",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_1",
+      "target": "0_4_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_1",
+      "target": "seg019"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_2",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_2",
+      "target": "seg020"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_2",
+      "target": "0_4_3"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_3",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_3",
+      "target": "0_4_4"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_3",
+      "target": "seg021"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Say hi and ask reasons_1",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Say hi and ask reasons_1",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Say hi and ask reasons_1",
+      "target": "Message from family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_4",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_4",
+      "target": "seg022"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_4",
+      "target": "0_4_5"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_5",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_5",
+      "target": "0_4_6"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_5",
+      "target": "seg023"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Get own letter_1",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Get own letter_1",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Get own letter_1",
+      "target": "Message from family"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_4_6",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_4_6",
+      "target": "seg024"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_4_6",
+      "target": "0_5_0"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_0",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_0",
+      "target": "0_5_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_0",
+      "target": "seg025"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Read letter_1",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Read letter_1",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Read letter_1",
+      "target": "Shock by message - financial problem"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_1",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_1",
+      "target": "0_5_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_1",
+      "target": "seg025"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_2",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_2",
+      "target": "seg025"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_2",
+      "target": "0_5_3"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_3",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_3",
+      "target": "0_5_4"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_3",
+      "target": "seg026"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Shocked by content_1",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Shocked by content_1",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Shocked by content_1",
+      "target": "Shock by message - financial problem"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_4",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_4",
+      "target": "seg027"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_4",
+      "target": "0_5_5"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_5",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_5",
+      "target": "0_5_6"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_5",
+      "target": "seg028"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Describe and explain content_1",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Describe and explain content_1",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Describe and explain content_1",
+      "target": "Shock by message - financial problem"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_6",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_6",
+      "target": "0_5_7"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_6",
+      "target": "seg028"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_5_7",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_5_7",
+      "target": "0_6_0"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_5_7",
+      "target": "seg029"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_0",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_0",
+      "target": "seg030"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_0",
+      "target": "0_6_1"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_1",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_1",
+      "target": "0_6_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_1",
+      "target": "seg031"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Understand the family decision_1",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Understand the family decision_1",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Understand the family decision_1",
+      "target": "Shock by message - financial problem"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_2",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_2",
+      "target": "0_6_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_2",
+      "target": "seg032"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_3",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_3",
+      "target": "seg033"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_3",
+      "target": "0_6_4"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_4",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_4",
+      "target": "0_6_5"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_4",
+      "target": "seg034"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Thiank about situation_1",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Thiank about situation_1",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Thiank about situation_1",
+      "target": "Shock by message - financial problem"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_6_5",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_6_5",
+      "target": "seg035"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_6_5",
+      "target": "0_7_0"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_0",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_0",
+      "target": "0_7_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_0",
+      "target": "seg036"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Discuss about situation and ask suggestions_1",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Discuss about situation and ask suggestions_1",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Discuss about situation and ask suggestions_1",
+      "target": "Ask advices"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_1",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_1",
+      "target": "0_7_2"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_1",
+      "target": "seg037"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_2",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_2",
+      "target": "0_7_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_2",
+      "target": "seg038"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_3",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_3",
+      "target": "0_7_4"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_3",
+      "target": "seg039"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_4",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_4",
+      "target": "seg040"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_4",
+      "target": "0_7_5"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_5",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_5",
+      "target": "0_7_6"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_5",
+      "target": "seg041"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "Give surprised suggestions_1",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_storytime",
+      "source": "Give surprised suggestions_1",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Give surprised suggestions_1",
+      "target": "Ask advices"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_7_6",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_7_6",
+      "target": "0_8_0"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_7_6",
+      "target": "seg042"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_0",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_8_0",
+      "target": "0_8_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_0",
+      "target": "seg043"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_1",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_1",
+      "target": "seg044"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_8_1",
+      "target": "0_8_2"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_2",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_8_2",
+      "target": "0_8_3"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_2",
+      "target": "seg045"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "shocked by the suggestion_1",
+      "target": "Intro to pointing out personality_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "shocked by the suggestion_1",
+      "target": "Ask advices"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_3",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_8_3",
+      "target": "0_8_4"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_3",
+      "target": "seg046"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_4",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_4",
+      "target": "seg047"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "0_8_4",
+      "target": "0_8_5"
+    },
+    {
+      "relation": "belongs_to",
+      "source": "0_8_5",
+      "target": "Intro to pointing out personality_1"
+    },
+    {
+      "relation": "instantiates",
+      "source": "0_8_5",
+      "target": "seg048"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "Intro to pointing out personality_1",
+      "target": "Ask advices"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg001",
+      "target": "Intro_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg001",
+      "target": "seg002"
+    },
+    {
+      "relation": "describes",
+      "source": "seg001",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg002",
+      "target": "Intro_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg002",
+      "target": "seg003"
+    },
+    {
+      "relation": "describes",
+      "source": "seg002",
+      "target": "Scene_0_0_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg003",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg003",
+      "target": "seg004"
+    },
+    {
+      "relation": "describes",
+      "source": "seg003",
+      "target": "Scene_0_0_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg004",
+      "target": "Get new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg004",
+      "target": "seg005"
+    },
+    {
+      "relation": "describes",
+      "source": "seg004",
+      "target": "Scene_0_0_3"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg005",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg005",
+      "target": "seg006"
+    },
+    {
+      "relation": "describes",
+      "source": "seg005",
+      "target": "Scene_0_0_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg006",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg006",
+      "target": "seg007"
+    },
+    {
+      "relation": "describes",
+      "source": "seg006",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg007",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg007",
+      "target": "seg008"
+    },
+    {
+      "relation": "describes",
+      "source": "seg007",
+      "target": "Scene_0_1_0"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg008",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg008",
+      "target": "seg009"
+    },
+    {
+      "relation": "describes",
+      "source": "seg008",
+      "target": "Scene_0_1_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg009",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg009",
+      "target": "seg010"
+    },
+    {
+      "relation": "describes",
+      "source": "seg009",
+      "target": "Scene_0_1_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg010",
+      "target": "Test new rice_cooker_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg010",
+      "target": "seg011"
+    },
+    {
+      "relation": "describes",
+      "source": "seg010",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg011",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg011",
+      "target": "seg012"
+    },
+    {
+      "relation": "describes",
+      "source": "seg011",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg012",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg012",
+      "target": "seg013"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg013",
+      "target": "Eat and think family_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg013",
+      "target": "seg014"
+    },
+    {
+      "relation": "describes",
+      "source": "seg013",
+      "target": "Scene_0_2_0"
+    },
+    {
+      "relation": "describes",
+      "source": "seg013",
+      "target": "Scene_0_2_1"
+    },
+    {
+      "relation": "describes",
+      "source": "seg013",
+      "target": "Scene_0_2_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg014",
+      "target": "Intro_2"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg014",
+      "target": "seg015"
+    },
+    {
+      "relation": "describes",
+      "source": "seg014",
+      "target": "Scene_0_3_0"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg015",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg015",
+      "target": "seg016"
+    },
+    {
+      "relation": "describes",
+      "source": "seg015",
+      "target": "Scene_0_3_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg016",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg016",
+      "target": "seg017"
+    },
+    {
+      "relation": "describes",
+      "source": "seg016",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg017",
+      "target": "Saw a friend is taking letter_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg017",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg017",
+      "target": "seg018"
+    },
+    {
+      "relation": "describes",
+      "source": "seg017",
+      "target": "Scene_0_3_3"
+    },
+    {
+      "relation": "describes",
+      "source": "seg017",
+      "target": "Scene_0_3_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg018",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg018",
+      "target": "seg019"
+    },
+    {
+      "relation": "describes",
+      "source": "seg018",
+      "target": "Scene_0_3_5"
+    },
+    {
+      "relation": "describes",
+      "source": "seg018",
+      "target": "Scene_0_4_0"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg019",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg019",
+      "target": "seg020"
+    },
+    {
+      "relation": "describes",
+      "source": "seg019",
+      "target": "Scene_0_4_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg020",
+      "target": "Saw a friend tear letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg020",
+      "target": "seg021"
+    },
+    {
+      "relation": "describes",
+      "source": "seg020",
+      "target": "Scene_0_4_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg021",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg021",
+      "target": "seg022"
+    },
+    {
+      "relation": "describes",
+      "source": "seg021",
+      "target": "Scene_0_4_3"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg022",
+      "target": "Say hi and ask reasons_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg022",
+      "target": "seg023"
+    },
+    {
+      "relation": "describes",
+      "source": "seg022",
+      "target": "Scene_0_4_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg023",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg023",
+      "target": "seg024"
+    },
+    {
+      "relation": "describes",
+      "source": "seg023",
+      "target": "Scene_0_4_5"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg024",
+      "target": "Get own letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg024",
+      "target": "seg025"
+    },
+    {
+      "relation": "describes",
+      "source": "seg024",
+      "target": "Scene_0_4_6"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg025",
+      "target": "Read letter_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg025",
+      "target": "seg026"
+    },
+    {
+      "relation": "describes",
+      "source": "seg025",
+      "target": "Scene_0_5_0"
+    },
+    {
+      "relation": "describes",
+      "source": "seg025",
+      "target": "Scene_0_5_1"
+    },
+    {
+      "relation": "describes",
+      "source": "seg025",
+      "target": "Scene_0_5_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg026",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg026",
+      "target": "seg027"
+    },
+    {
+      "relation": "describes",
+      "source": "seg026",
+      "target": "Scene_0_5_3"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg027",
+      "target": "Shocked by content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg027",
+      "target": "seg028"
+    },
+    {
+      "relation": "describes",
+      "source": "seg027",
+      "target": "Scene_0_5_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg028",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg028",
+      "target": "seg029"
+    },
+    {
+      "relation": "describes",
+      "source": "seg028",
+      "target": "Scene_0_5_5"
+    },
+    {
+      "relation": "describes",
+      "source": "seg028",
+      "target": "Scene_0_5_6"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg029",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg029",
+      "target": "seg030"
+    },
+    {
+      "relation": "describes",
+      "source": "seg029",
+      "target": "Scene_0_5_7"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg030",
+      "target": "Describe and explain content_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg030",
+      "target": "seg031"
+    },
+    {
+      "relation": "describes",
+      "source": "seg030",
+      "target": "Scene_0_6_0"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg031",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg031",
+      "target": "seg032"
+    },
+    {
+      "relation": "describes",
+      "source": "seg031",
+      "target": "Scene_0_6_1"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg032",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg032",
+      "target": "seg033"
+    },
+    {
+      "relation": "describes",
+      "source": "seg032",
+      "target": "Scene_0_6_2"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg033",
+      "target": "Understand the family decision_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg033",
+      "target": "seg034"
+    },
+    {
+      "relation": "describes",
+      "source": "seg033",
+      "target": "Scene_0_6_3"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg034",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg034",
+      "target": "seg035"
+    },
+    {
+      "relation": "describes",
+      "source": "seg034",
+      "target": "Scene_0_6_4"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg035",
+      "target": "Thiank about situation_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg035",
+      "target": "seg036"
+    },
+    {
+      "relation": "describes",
+      "source": "seg035",
+      "target": "Scene_0_6_5"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg036",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg036",
+      "target": "seg037"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg037",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg037",
+      "target": "seg038"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg038",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg038",
+      "target": "seg039"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg039",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg039",
+      "target": "seg040"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg040",
+      "target": "Discuss about situation and ask suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg040",
+      "target": "seg041"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg041",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg041",
+      "target": "seg042"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg042",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg042",
+      "target": "seg043"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg043",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg043",
+      "target": "seg044"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg044",
+      "target": "Give surprised suggestions_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg044",
+      "target": "seg045"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg045",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg045",
+      "target": "seg046"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg046",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg046",
+      "target": "seg047"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg047",
+      "target": "shocked by the suggestion_1"
+    },
+    {
+      "relation": "precedes_reading",
+      "source": "seg047",
+      "target": "seg048"
+    },
+    {
+      "relation": "subevent_of",
+      "source": "seg048",
+      "target": "Intro to pointing out personality_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_0",
+      "target": "Panel_visual_0_0_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_0_0",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_0_0",
+      "target": "scene_obj_0_0_0_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_0_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_0_1",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_0_1",
+      "target": "scene_obj_0_0_0_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_0_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_0_2",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_0_2",
+      "target": "scene_obj_0_0_0_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "A",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "A",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "performs",
+      "source": "A",
+      "target": "Action_0_0_0_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_A",
+      "target": "A"
+    },
+    {
+      "relation": "is_a",
+      "source": "B",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "B",
+      "target": "Scene_0_0_0"
+    },
+    {
+      "relation": "performs",
+      "source": "B",
+      "target": "Action_0_0_0_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_B",
+      "target": "B"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_0_0",
+      "target": "B"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_0_1",
+      "target": "A"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_0_0",
+      "target": "Panel_textual_0_0_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_0_0",
+      "target": "Dialogue_0_0_0_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_0",
+      "target": "Panel_visual_0_0_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_1",
+      "target": "Panel_visual_0_0_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_1_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_1_0",
+      "target": "Scene_0_0_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_1_0",
+      "target": "scene_obj_0_0_1_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_1_0",
+      "target": "Panel_textual_0_0_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_1_0",
+      "target": "Dialogue_0_0_1_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_1",
+      "target": "Panel_visual_0_0_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_2",
+      "target": "Panel_visual_0_0_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_2_0",
+      "target": "Scene_0_0_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_2_0",
+      "target": "scene_obj_0_0_2_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "C",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_0_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_0_3"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_0_3_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_0_5_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_1_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_1_0_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_1_0_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_1_1"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_1_1_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_1_2"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_1_2_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_2_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_2_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_3_1"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_3_1_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_3_2_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_3_4"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_3_5"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_3_5_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_4_0_3"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_1"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_4_1_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_2"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_4_2_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_3"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_4"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_5"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_4_5_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_4_6"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_4_6_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_0_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_0_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_1"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_1_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_1_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_2"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_2_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_2_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_3"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_3_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_5_3_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_4"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_5"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_5_7"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_6_0"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_6_0_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_6_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_6_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_6_3"
+    },
+    {
+      "relation": "located_in",
+      "source": "C",
+      "target": "Scene_0_6_4"
+    },
+    {
+      "relation": "performs",
+      "source": "C",
+      "target": "Action_0_6_4_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_C",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_2_0",
+      "target": "Panel_textual_0_0_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_2_0",
+      "target": "Dialogue_0_0_2_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_2",
+      "target": "Panel_visual_0_0_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_3",
+      "target": "Panel_visual_0_0_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_3_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_3_0",
+      "target": "Scene_0_0_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_3_0",
+      "target": "scene_obj_0_0_3_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_3_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_3_1",
+      "target": "Scene_0_0_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_3_1",
+      "target": "scene_obj_0_0_3_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_3_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_3_2",
+      "target": "Scene_0_0_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_3_2",
+      "target": "scene_obj_0_0_3_2"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_3_0",
+      "target": "Rice_cooker"
+    },
+    {
+      "relation": "performs",
+      "source": "Rice_cooker",
+      "target": "Action_0_0_5_1"
+    },
+    {
+      "relation": "performs",
+      "source": "Rice_cooker",
+      "target": "Action_0_1_2_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_3_0",
+      "target": "Panel_textual_0_0_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_3_0",
+      "target": "Dialogue_0_0_3_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_3_1",
+      "target": "Panel_textual_0_0_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_3_1",
+      "target": "Dialogue_0_0_3_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_3",
+      "target": "Panel_visual_0_0_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_4",
+      "target": "Panel_visual_0_0_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_4_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_4_0",
+      "target": "Scene_0_0_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_4_0",
+      "target": "scene_obj_0_0_4_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "C_hand",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "C_hand",
+      "target": "Scene_0_0_4"
+    },
+    {
+      "relation": "performs",
+      "source": "C_hand",
+      "target": "Action_0_0_4_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_C_hand",
+      "target": "C_hand"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_4_0",
+      "target": "Rice_cooker"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_4_0",
+      "target": "Panel_textual_0_0_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_4_0",
+      "target": "Dialogue_0_0_4_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_4_1",
+      "target": "Panel_textual_0_0_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_4_1",
+      "target": "Dialogue_0_0_4_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_4",
+      "target": "Panel_visual_0_0_4"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_0_5",
+      "target": "Panel_visual_0_0_5"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_0",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_0",
+      "target": "scene_obj_0_0_5_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_1",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_1",
+      "target": "scene_obj_0_0_5_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_2",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_2",
+      "target": "scene_obj_0_0_5_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_3",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_3",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_3",
+      "target": "scene_obj_0_0_5_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_4",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_4",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_4",
+      "target": "scene_obj_0_0_5_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_0_5_5",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_0_5_5",
+      "target": "Scene_0_0_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_0_5_5",
+      "target": "scene_obj_0_0_5_5"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_5_0",
+      "target": "Rice_cooker_power_cord"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_0_5_1",
+      "target": "Table"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_0_5_0",
+      "target": "Panel_textual_0_0_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_0_5_0",
+      "target": "Dialogue_0_0_5_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_0_5",
+      "target": "Panel_visual_0_0_5"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_1_0",
+      "target": "Panel_visual_0_1_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_0_0",
+      "target": "Scene_0_1_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_0_0",
+      "target": "scene_obj_0_1_0_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_0_0",
+      "target": "Power_cord"
+    },
+    {
+      "relation": "performs",
+      "source": "Power_cord",
+      "target": "Action_0_1_0_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_0_1",
+      "target": "Wall_socket"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_0_2",
+      "target": "Power_cord into Wall_socket"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_0_0",
+      "target": "Panel_textual_0_1_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_0_0",
+      "target": "Dialogue_0_1_0_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_1_0",
+      "target": "Panel_visual_0_1_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_1_1",
+      "target": "Panel_visual_0_1_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_1_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_1_0",
+      "target": "Scene_0_1_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_1_0",
+      "target": "scene_obj_0_1_1_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_1_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_1_1",
+      "target": "Scene_0_1_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_1_1",
+      "target": "scene_obj_0_1_1_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_1_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_1_2",
+      "target": "Scene_0_1_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_1_2",
+      "target": "scene_obj_0_1_1_2"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_1_0",
+      "target": "Rice_cooker_button"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_1_0",
+      "target": "Panel_textual_0_1_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_1_0",
+      "target": "Dialogue_0_1_1_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_1_1",
+      "target": "Panel_visual_0_1_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_1_2",
+      "target": "Panel_visual_0_1_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_2_0",
+      "target": "Scene_0_1_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_2_0",
+      "target": "scene_obj_0_1_2_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_2_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_2_1",
+      "target": "Scene_0_1_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_2_1",
+      "target": "scene_obj_0_1_2_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_2_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_2_2",
+      "target": "Scene_0_1_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_2_2",
+      "target": "scene_obj_0_1_2_2"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_2_0",
+      "target": "Chopstick"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_2_1",
+      "target": "Steam"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_2_0",
+      "target": "Panel_textual_0_1_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_2_0",
+      "target": "Dialogue_0_1_2_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_1_2",
+      "target": "Panel_visual_0_1_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_1_3",
+      "target": "Panel_visual_0_1_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_3_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_3_0",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_3_0",
+      "target": "scene_obj_0_1_3_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_3_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_3_1",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_3_1",
+      "target": "scene_obj_0_1_3_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_3_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_3_2",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_3_2",
+      "target": "scene_obj_0_1_3_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_3_3",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_3_3",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_3_3",
+      "target": "scene_obj_0_1_3_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "D",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "D",
+      "target": "Scene_0_1_3"
+    },
+    {
+      "relation": "performs",
+      "source": "D",
+      "target": "Action_0_1_3_1"
+    },
+    {
+      "relation": "performs",
+      "source": "D",
+      "target": "Action_0_1_3_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_D",
+      "target": "D"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_3_1",
+      "target": "Room"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_1_3_2",
+      "target": "Door"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_3_0",
+      "target": "Panel_textual_0_1_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_3_0",
+      "target": "Dialogue_0_1_3_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_3_1",
+      "target": "Panel_textual_0_1_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_3_1",
+      "target": "Dialogue_0_1_3_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_1_3",
+      "target": "Panel_visual_0_1_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_1_4",
+      "target": "Panel_visual_0_1_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_0",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_0",
+      "target": "scene_obj_0_1_4_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_1",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_1",
+      "target": "scene_obj_0_1_4_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_2",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_2",
+      "target": "scene_obj_0_1_4_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_3",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_3",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_3",
+      "target": "scene_obj_0_1_4_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_4",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_4",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_4",
+      "target": "scene_obj_0_1_4_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_1_4_5",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_1_4_5",
+      "target": "Scene_0_1_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_1_4_5",
+      "target": "scene_obj_0_1_4_5"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_1_4_0",
+      "target": "Panel_textual_0_1_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_1_4_0",
+      "target": "Dialogue_0_1_4_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_2_0",
+      "target": "Panel_visual_0_2_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_0_0",
+      "target": "Panel_textual_0_2_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_0_0",
+      "target": "Dialogue_0_2_0_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_0_1",
+      "target": "Panel_textual_0_2_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_0_1",
+      "target": "Dialogue_0_2_0_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_2_0",
+      "target": "Panel_visual_0_2_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_2_1",
+      "target": "Panel_visual_0_2_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_1_0",
+      "target": "Panel_textual_0_2_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_1_0",
+      "target": "Dialogue_0_2_1_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_1_1",
+      "target": "Panel_textual_0_2_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_1_1",
+      "target": "Dialogue_0_2_1_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_2_2",
+      "target": "Panel_visual_0_2_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_2_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_2_2_0",
+      "target": "Scene_0_2_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_2_2_0",
+      "target": "scene_obj_0_2_2_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_2_2_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_2_2_1",
+      "target": "Scene_0_2_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_2_2_1",
+      "target": "scene_obj_0_2_2_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_2_2_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_2_2_2",
+      "target": "Scene_0_2_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_2_2_2",
+      "target": "scene_obj_0_2_2_2"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_2_0",
+      "target": "Panel_textual_0_2_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_2_0",
+      "target": "Dialogue_0_2_2_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_2_2_1",
+      "target": "Panel_textual_0_2_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_2_2_1",
+      "target": "Dialogue_0_2_2_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_2_2",
+      "target": "Panel_visual_0_2_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_0",
+      "target": "Panel_visual_0_3_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_0_0",
+      "target": "Scene_0_3_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_0_0",
+      "target": "scene_obj_0_3_0_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "Unknown",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "Unknown",
+      "target": "Scene_0_3_0"
+    },
+    {
+      "relation": "performs",
+      "source": "Unknown",
+      "target": "Action_0_3_0_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_Unknown",
+      "target": "Unknown"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_0_0",
+      "target": "Stair"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_0_0",
+      "target": "Panel_textual_0_3_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_3_0_0",
+      "target": "Dialogue_0_3_0_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_0",
+      "target": "Panel_visual_0_3_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_1",
+      "target": "Panel_visual_0_3_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_1_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_1_0",
+      "target": "Scene_0_3_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_1_0",
+      "target": "scene_obj_0_3_1_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_1_0",
+      "target": "Unknown"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_1_0",
+      "target": "Panel_textual_0_3_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_1",
+      "target": "Panel_visual_0_3_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_2",
+      "target": "Panel_visual_0_3_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_2_0",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_2_0",
+      "target": "scene_obj_0_3_2_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_2_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_2_1",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_2_1",
+      "target": "scene_obj_0_3_2_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_2_2",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_2_2",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_2_2",
+      "target": "scene_obj_0_3_2_2"
+    },
+    {
+      "relation": "is_a",
+      "source": " E",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": " E",
+      "target": "Scene_0_3_2"
+    },
+    {
+      "relation": "located_in",
+      "source": " E",
+      "target": "Scene_0_3_5"
+    },
+    {
+      "relation": "located_in",
+      "source": " E",
+      "target": "Scene_0_5_4"
+    },
+    {
+      "relation": "located_in",
+      "source": " E",
+      "target": "Scene_0_5_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_ E",
+      "target": " E"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_2_0",
+      "target": "E"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_3_2_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "E",
+      "target": "Characters"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_3_3"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_3_3_0"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_3_3_1"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_3_5_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_0"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_0_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_1"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_1_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_2"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_2_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_3"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_3_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_4"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_4_0"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_4_3"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_4_6"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_4_6_3"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_5_4_0"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_5_4_2"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_5_5_0"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_5_7"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_5_7_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_6_0"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_6_0_2"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_6_1"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_6_1_1"
+    },
+    {
+      "relation": "located_in",
+      "source": "E",
+      "target": "Scene_0_6_3"
+    },
+    {
+      "relation": "performs",
+      "source": "E",
+      "target": "Action_0_6_3_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_2_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_2_0",
+      "target": "Panel_textual_0_3_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_3_2_0",
+      "target": "Dialogue_0_3_2_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_2",
+      "target": "Panel_visual_0_3_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_3",
+      "target": "Panel_visual_0_3_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_3_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_3_0",
+      "target": "Scene_0_3_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_3_0",
+      "target": "scene_obj_0_3_3_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_E",
+      "target": "E"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_3_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_3_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_3_0",
+      "target": "Panel_textual_0_3_3"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_3",
+      "target": "Panel_visual_0_3_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_4",
+      "target": "Panel_visual_0_3_4"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_4_0",
+      "target": "Panel_textual_0_3_4"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_4",
+      "target": "Panel_visual_0_3_4"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_3_5",
+      "target": "Panel_visual_0_3_5"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_5_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_5_0",
+      "target": "Scene_0_3_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_5_0",
+      "target": "scene_obj_0_3_5_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_3_5_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_3_5_1",
+      "target": "Scene_0_3_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_3_5_1",
+      "target": "scene_obj_0_3_5_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_5_0",
+      "target": "E"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_3_5_1",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "performs",
+      "source": "Letter_fragment",
+      "target": "Action_0_4_0_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_3_5_0",
+      "target": "Panel_textual_0_3_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_3_5_0",
+      "target": "Dialogue_0_3_5_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_3_5",
+      "target": "Panel_visual_0_3_5"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_0",
+      "target": "Panel_visual_0_4_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_0_0",
+      "target": "Scene_0_4_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_0_0",
+      "target": "scene_obj_0_4_0_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_0_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_0_1",
+      "target": "Scene_0_4_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_0_1",
+      "target": "scene_obj_0_4_0_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_0_0",
+      "target": "Floor"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_0_1",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_0_3",
+      "target": "E"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_0_0",
+      "target": "Panel_textual_0_4_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_0",
+      "target": "Panel_visual_0_4_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_1",
+      "target": "Panel_visual_0_4_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_1_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_1_0",
+      "target": "Scene_0_4_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_1_0",
+      "target": "scene_obj_0_4_1_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_1_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_1_1",
+      "target": "Scene_0_4_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_1_1",
+      "target": "scene_obj_0_4_1_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_1_1",
+      "target": "E"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_1_2",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_1_0",
+      "target": "Panel_textual_0_4_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_1",
+      "target": "Panel_visual_0_4_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_2",
+      "target": "Panel_visual_0_4_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_2_0",
+      "target": "Scene_0_4_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_2_0",
+      "target": "scene_obj_0_4_2_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_2_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_2_1",
+      "target": "Scene_0_4_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_2_1",
+      "target": "scene_obj_0_4_2_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_2_0",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_2_1",
+      "target": "E"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_2_0",
+      "target": "Panel_textual_0_4_2"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_2",
+      "target": "Panel_visual_0_4_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_3",
+      "target": "Panel_visual_0_4_3"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_3_0",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_3_0",
+      "target": "Panel_textual_0_4_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_4_3_0",
+      "target": "Dialogue_0_4_3_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_3_1",
+      "target": "Panel_textual_0_4_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_4_3_1",
+      "target": "Dialogue_0_4_3_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_3",
+      "target": "Panel_visual_0_4_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_4",
+      "target": "Panel_visual_0_4_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_4_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_4_0",
+      "target": "Scene_0_4_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_4_0",
+      "target": "scene_obj_0_4_4_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_4_0",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_4_3",
+      "target": "Cleaning_tool"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_4_0",
+      "target": "Panel_textual_0_4_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_4_4_0",
+      "target": "Dialogue_0_4_4_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_4",
+      "target": "Panel_visual_0_4_4"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_5",
+      "target": "Panel_visual_0_4_5"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_5_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_5_0",
+      "target": "Scene_0_4_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_5_0",
+      "target": "scene_obj_0_4_5_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_5_0",
+      "target": "Letter to C"
+    },
+    {
+      "relation": "performs",
+      "source": "Unkown",
+      "target": "Action_0_4_5_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_5_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_5_0",
+      "target": "Panel_textual_0_4_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_4_5_0",
+      "target": "Dialogue_0_4_5_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_5",
+      "target": "Panel_visual_0_4_5"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_4_6",
+      "target": "Panel_visual_0_4_6"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_4_6_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_4_6_0",
+      "target": "Scene_0_4_6"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_4_6_0",
+      "target": "scene_obj_0_4_6_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_6_1",
+      "target": "E"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_4_6_3",
+      "target": "Cleaning_tool"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_4_6_0",
+      "target": "Panel_textual_0_4_6"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_4_6_0",
+      "target": "Dialogue_0_4_6_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_4_6",
+      "target": "Panel_visual_0_4_6"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_0",
+      "target": "Panel_visual_0_5_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_0_0",
+      "target": "Scene_0_5_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_0_0",
+      "target": "scene_obj_0_5_0_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_0_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_0_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_0_0",
+      "target": "Panel_textual_0_5_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_0_0",
+      "target": "Dialogue_0_5_0_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_0",
+      "target": "Panel_visual_0_5_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_1",
+      "target": "Panel_visual_0_5_1"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_1_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_1_0",
+      "target": "Scene_0_5_1"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_1_0",
+      "target": "scene_obj_0_5_1_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_1_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_1_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_1_0",
+      "target": "Panel_textual_0_5_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_1",
+      "target": "Panel_visual_0_5_1"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_2",
+      "target": "Panel_visual_0_5_2"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_2_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_2_0",
+      "target": "Scene_0_5_2"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_2_0",
+      "target": "scene_obj_0_5_2_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_2_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_2_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_2_0",
+      "target": "Panel_textual_0_5_2"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_2_0",
+      "target": "Dialogue_0_5_2_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_2",
+      "target": "Panel_visual_0_5_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_3",
+      "target": "Panel_visual_0_5_3"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_3_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_3_0",
+      "target": "Scene_0_5_3"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_3_0",
+      "target": "scene_obj_0_5_3_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_3_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_3_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_3_0",
+      "target": "Panel_textual_0_5_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_3_0",
+      "target": "Dialogue_0_5_3_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_3",
+      "target": "Panel_visual_0_5_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_4",
+      "target": "Panel_visual_0_5_4"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_4_0",
+      "target": "C"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_4_2",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_4_0",
+      "target": "Panel_textual_0_5_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_4_0",
+      "target": "Dialogue_0_5_4_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_4",
+      "target": "Panel_visual_0_5_4"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_5",
+      "target": "Panel_visual_0_5_5"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_5_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_5_0",
+      "target": "Scene_0_5_5"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_5_0",
+      "target": "scene_obj_0_5_5_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_5_0",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_5_0",
+      "target": "Panel_textual_0_5_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_5_0",
+      "target": "Dialogue_0_5_5_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_5_1",
+      "target": "Panel_textual_0_5_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_5_1",
+      "target": "Dialogue_0_5_5_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_5",
+      "target": "Panel_visual_0_5_5"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_6",
+      "target": "Panel_visual_0_5_6"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_6_0",
+      "target": "Panel_textual_0_5_6"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_6_0",
+      "target": "Dialogue_0_5_6_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_5_7",
+      "target": "Panel_visual_0_5_7"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_5_7_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_5_7_0",
+      "target": "Scene_0_5_7"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_5_7_0",
+      "target": "scene_obj_0_5_7_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_5_7_1",
+      "target": "Letter"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_7_0",
+      "target": "Panel_textual_0_5_7"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_7_0",
+      "target": "Dialogue_0_5_7_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_7_1",
+      "target": "Panel_textual_0_5_7"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_7_1",
+      "target": "Dialogue_0_5_7_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_5_7_2",
+      "target": "Panel_textual_0_5_7"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_5_7_2",
+      "target": "Dialogue_0_5_7_2"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_5_7",
+      "target": "Panel_visual_0_5_7"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_0",
+      "target": "Panel_visual_0_6_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_6_0_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_6_0_0",
+      "target": "Scene_0_6_0"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_6_0_0",
+      "target": "scene_obj_0_6_0_0"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_6_0_1",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_6_0_2",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_0_0",
+      "target": "Panel_textual_0_6_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_0_0",
+      "target": "Dialogue_0_6_0_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_0_1",
+      "target": "Panel_textual_0_6_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_0_1",
+      "target": "Dialogue_0_6_0_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_0_2",
+      "target": "Panel_textual_0_6_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_0_2",
+      "target": "Dialogue_0_6_0_2"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_0_3",
+      "target": "Panel_textual_0_6_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_0_3",
+      "target": "Dialogue_0_6_0_3"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_0_4",
+      "target": "Panel_textual_0_6_0"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_0_4",
+      "target": "Dialogue_0_6_0_4"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_0",
+      "target": "Panel_visual_0_6_0"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_1",
+      "target": "Panel_visual_0_6_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_6_1_1",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_1_0",
+      "target": "Panel_textual_0_6_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_1_0",
+      "target": "Dialogue_0_6_1_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_1_1",
+      "target": "Panel_textual_0_6_1"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_1_1",
+      "target": "Dialogue_0_6_1_1"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_1",
+      "target": "Panel_visual_0_6_1"
+    },
+    {
+      "relation": "encodes",
+      "source": "encoder_0_6_2_0",
+      "target": "Panel_visual_0_6_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_2",
+      "target": "Panel_visual_0_6_2"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_2_0",
+      "target": "Panel_textual_0_6_2"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_2",
+      "target": "Panel_visual_0_6_2"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_3",
+      "target": "Panel_visual_0_6_3"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_6_3_1",
+      "target": "C"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_3_0",
+      "target": "Panel_textual_0_6_3"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_3_0",
+      "target": "Dialogue_0_6_3_0"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_3",
+      "target": "Panel_visual_0_6_3"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_4",
+      "target": "Panel_visual_0_6_4"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_6_4_0",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_6_4_0",
+      "target": "Scene_0_6_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_6_4_0",
+      "target": "scene_obj_0_6_4_0"
+    },
+    {
+      "relation": "is_a",
+      "source": "scene_obj_0_6_4_1",
+      "target": "Scene_objects"
+    },
+    {
+      "relation": "located_in",
+      "source": "scene_obj_0_6_4_1",
+      "target": "Scene_0_6_4"
+    },
+    {
+      "relation": "visual_of",
+      "source": "Visual_scene_obj_0_6_4_1",
+      "target": "scene_obj_0_6_4_1"
+    },
+    {
+      "relation": "targets",
+      "source": "Action_0_6_4_1",
+      "target": "Letter_fragment"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_4_0",
+      "target": "Panel_textual_0_6_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_4_0",
+      "target": "Dialogue_0_6_4_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_4_1",
+      "target": "Panel_textual_0_6_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_4_1",
+      "target": "Dialogue_0_6_4_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_4_2",
+      "target": "Panel_textual_0_6_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_4_2",
+      "target": "Dialogue_0_6_4_2"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_4_3",
+      "target": "Panel_textual_0_6_4"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_4_3",
+      "target": "Dialogue_0_6_4_3"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_4",
+      "target": "Panel_visual_0_6_4"
+    },
+    {
+      "relation": "appears_in",
+      "source": "Scene_0_6_5",
+      "target": "Panel_visual_0_6_5"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_5_0",
+      "target": "Panel_textual_0_6_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_5_0",
+      "target": "Dialogue_0_6_5_0"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_5_1",
+      "target": "Panel_textual_0_6_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_5_1",
+      "target": "Dialogue_0_6_5_1"
+    },
+    {
+      "relation": "part_of",
+      "source": "Dialogue_0_6_5_2",
+      "target": "Panel_textual_0_6_5"
+    },
+    {
+      "relation": "content_of",
+      "source": "text_0_6_5_2",
+      "target": "Dialogue_0_6_5_2"
+    },
+    {
+      "relation": "shot_type",
+      "source": "shot_0_6_5",
+      "target": "Panel_visual_0_6_5"
+    }
+  ]
+}

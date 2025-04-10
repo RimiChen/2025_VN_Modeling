@@ -1,0 +1,5 @@
+Task,Metric,Avg_Score
+Task 1: Action Retrieval,Coverage,0.0
+Task 2: Dialogue Trace,Recall,1.0
+Task 3: Character Appearance,Coverage,1.0
+Task 4: Panel Timeline,Ordering Accuracy,1.0
