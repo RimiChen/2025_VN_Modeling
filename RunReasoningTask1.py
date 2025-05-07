@@ -5,9 +5,13 @@ from networkx.readwrite import json_graph
 from ReasoningQueries_updated_2 import get_actions_by_macro_event  # make sure this matches your script name
 
 # === Paths ===
-KG_PATH = "Data/KGs_Book_0/integrated_kg.json"
-GROUND_TRUTH_PATH = "Data/KGs_Book_0/ground_truth_task1_actions.csv"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/reasoning_task1_actions.csv"
+GROUND_TRUTH_PATH = "Data/KGs_Book_1/ground_truth_task1_actions.csv"
+
+# KG_PATH = "Data/KGs_Book_1/integrated_kg.json"
+# OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task1_actions.csv"
+
+KG_PATH = "Data/KGs_Book_1/integrated_kg_normalized.json"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task1_actions_normalized.csv"
 
 # === Load KG ===
 with open(KG_PATH, "r", encoding="utf-8") as f:

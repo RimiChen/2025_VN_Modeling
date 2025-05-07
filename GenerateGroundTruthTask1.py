@@ -6,9 +6,10 @@ from pathlib import Path
 import csv
 
 # === Paths ===
-EXCEL_PATH = "Data/Annotation_Book_0/Story_0_with_IDs.xlsx"
-PANEL_JSON_DIR = "Data/Annotation_Book_0/"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/ground_truth_task1_actions.csv"
+EXCEL_PATH = "Data/Annotation_Book_1/Story_1_with_IDs.xlsx"
+PANEL_JSON_DIR = "Data/Annotation_Book_1/"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/ground_truth_task1_actions.csv"
+BOOK_ID = 1
 
 # === Step 1: Load macro_event → panel mapping from Excel ===
 df = pd.read_excel(EXCEL_PATH)
@@ -25,7 +26,7 @@ for _, row in df.iterrows():
 
 # === Step 2: Read panel JSONs to extract action verbs ===
 panel_to_actions = defaultdict(list)
-json_files = sorted(Path(PANEL_JSON_DIR).glob("0_*.json"))
+json_files = sorted(Path(PANEL_JSON_DIR).glob(BOOK_ID + "_*.json"))
 
 for json_file in json_files:
     with open(json_file, "r", encoding="utf-8") as f:

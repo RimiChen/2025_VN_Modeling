@@ -6,9 +6,9 @@ from pathlib import Path
 import csv
 
 # === Paths ===
-EXCEL_PATH = "Data/Annotation_Book_0/Story_0_with_IDs.xlsx"
-PANEL_JSON_DIR = "Data/Annotation_Book_0/"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/ground_truth_task3_characters.csv"
+EXCEL_PATH = "Data/Annotation_Book_1/Story_1_with_IDs.xlsx"
+PANEL_JSON_DIR = "Data/Annotation_Book_1/"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/ground_truth_task3_characters.csv"
 
 # === Step 1: Load panel → event mapping from Excel ===
 df = pd.read_excel(EXCEL_PATH)

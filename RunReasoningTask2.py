@@ -5,9 +5,13 @@ from networkx.readwrite import json_graph
 from ReasoningQueries_updated_2 import get_dialogues_by_event  # Update if needed
 
 # === Paths ===
-KG_PATH = "Data/KGs_Book_0/integrated_kg.json"
-GROUND_TRUTH_PATH = "Data/KGs_Book_0/ground_truth_task2_dialogues.csv"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/reasoning_task2_dialogues.csv"
+
+GROUND_TRUTH_PATH = "Data/KGs_Book_1/ground_truth_task2_dialogues.csv"
+# KG_PATH = "Data/KGs_Book_1/integrated_kg.json"
+# OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task2_dialogues.csv"
+
+KG_PATH = "Data/KGs_Book_1/integrated_kg_normalized.json"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task2_dialogues_normalized.csv"
 
 # === Load KG ===
 with open(KG_PATH, "r", encoding="utf-8") as f:

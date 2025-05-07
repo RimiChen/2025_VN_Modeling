@@ -6,9 +6,14 @@ from networkx.readwrite import json_graph
 from ReasoningQueries_updated_2 import get_character_appearances  # Update if needed
 
 # === Paths ===
-KG_PATH = "Data/KGs_Book_0/integrated_kg.json"
-ANNOTATION_XLSX = "Data/Annotation_Book_0/Story_0_with_IDs.xlsx"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/reasoning_task3_characters.csv"
+
+ANNOTATION_XLSX = "Data/Annotation_Book_1/Story_1_with_IDs.xlsx"
+# KG_PATH = "Data/KGs_Book_1/integrated_kg.json"
+# OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task3_characters.csv"
+
+
+KG_PATH = "Data/KGs_Book_1/integrated_kg_normalized.json"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/reasoning_task3_characters_normalized.csv"
 
 # === Load KG ===
 with open(KG_PATH, "r", encoding="utf-8") as f:

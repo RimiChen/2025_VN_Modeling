@@ -5,8 +5,8 @@ from collections import defaultdict
 import csv
 
 # === Paths ===
-EXCEL_PATH = "Data/Annotation_Book_0/Story_0_with_IDs.xlsx"
-OUTPUT_CSV_PATH = "Data/KGs_Book_0/ground_truth_task4_panels.csv"
+EXCEL_PATH = "Data/Annotation_Book_1/Story_1_with_IDs.xlsx"
+OUTPUT_CSV_PATH = "Data/KGs_Book_1/ground_truth_task4_panels.csv"
 
 # === Step 1: Load Excel annotations ===
 df = pd.read_excel(EXCEL_PATH)
