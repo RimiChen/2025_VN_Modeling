@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Load the JSON
-with open("Data/KGs_Book_0/event_kg/event_kg_partial_33nodes.json", "r") as f:
+with open("Data/KGs_Book_0/event_kg/event_kg_partial_33nodes_visual.json", "r") as f:
     data = json.load(f)
 
 # import json
@@ -60,18 +60,18 @@ def layered_layout(G):
 pos = layered_layout(G)
 plt.figure(figsize=(28, 20))
 nx.draw(
-    G, pos, with_labels=False, node_color="#D6EAF8", node_size=5000, edge_color="gray", arrows=True
+    G, pos, with_labels=False, node_color="#D6EAF8", node_size=3000, edge_color="gray", arrows=True
 )
 
 # Draw node labels
 node_labels = {n: d["label"] for n, d in G.nodes(data=True)}
-nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=11)
+nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=20)
 
 # Draw edge labels
 edge_labels = {(u, v): d["label"] for u, v, d in G.edges(data=True)}
-nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=10)
+nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=20,font_color='green')
 
-plt.title("Hierarchical Event Knowledge Graph (Short Labels)", fontsize=18)
+# plt.title("Hierarchical Event Knowledge Graph (Short Labels)", fontsize=18)
 plt.axis("off")
 plt.tight_layout()
 plt.savefig("event_kg_partial_33nodes_shortlabels.png", dpi=300)

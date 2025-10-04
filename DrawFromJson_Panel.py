@@ -37,14 +37,14 @@ def draw_graph(G, title="Knowledge Graph", out_file=None):
 
     plt.figure(figsize=(12, 10))
     nx.draw(G, pos, with_labels=True, labels=node_labels,
-            node_color="#A0CBE2", node_size=3000,
-            font_size=12, font_weight='bold',
+            node_color="#A0CBE2", node_size=300,
+            font_size=20, font_weight='bold',
             edge_color="gray", width=1.5, arrows=True)
 
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels,
-                                 font_color='darkred', font_size=11)
+                                 font_color='green', font_size=20)
 
-    plt.title(title, fontsize=16)
+    # plt.title(title, fontsize=16)
     plt.axis('off')
     if out_file:
         plt.savefig(out_file, bbox_inches='tight', dpi=300)
@@ -53,7 +53,7 @@ def draw_graph(G, title="Knowledge Graph", out_file=None):
         plt.show()
 
 if __name__ == "__main__":
-    json_path = "Data/KGs_Book_0/panel_graphs/0_0_4.json"  # Adjust path if needed
+    json_path = "Data/KGs_Book_0/0_4_4_sample.json"  # Adjust path if needed
     G = load_graph_from_json(json_path)
     draw_graph(G, out_file="Data/KGs_Book_0/panel_kg_example.png")
 

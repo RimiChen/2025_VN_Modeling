@@ -34,11 +34,11 @@ def draw_graph(G, out_file=None):
     edge_labels = nx.get_edge_attributes(G, 'label')
 
     plt.figure(figsize=(14, 10))
-    nx.draw_networkx_nodes(G, pos, node_color="#AED6F1", node_size=3000)
+    nx.draw_networkx_nodes(G, pos, node_color="#AED6F1", node_size=1000)
     nx.draw_networkx_edges(G, pos, edge_color="#5D6D7E", arrows=True, arrowstyle='-|>', width=2)
 
-    nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=12)
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=11, label_pos=0.55)
+    nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=20, font_weight='bold')
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='green', font_size=15, label_pos=0.55)
 
     plt.axis("off")
     if out_file:
